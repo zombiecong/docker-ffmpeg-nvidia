@@ -1,4 +1,4 @@
-FROM nvidia/cuda:8.0-devel
+FROM nvidia/cuda:10.1-devel
 
 WORKDIR /tmp
 
